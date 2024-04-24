@@ -5,7 +5,7 @@
 - **版本信息**：
     - **当前清单更新时间**：*2024/04/25* *04:00*
     - **游戏版本**：***scythe***（***1.12.4***）
-    - **获取清单最新版本**：[GitHub](https://github.com/)（未开放）
+    - **获取清单最新版本**：[GitHub]([https://github.com/](https://github.com/csodaszarvas343/CK3_CSMCaLOG))
 
 - **整理者**：**无渡**
 
