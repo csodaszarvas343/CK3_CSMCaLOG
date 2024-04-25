@@ -37,7 +37,7 @@
     - [Carnalitas-Arousal-Framework](#Carnalitas-Arousal-Framework)
     - [Carnalitas-Love-Reimagined](#Carnalitas-Love-Reimagined)
     - [Carnalitas-Slavery-Reimagined](#Carnalitas-Slavery-Reimagined)
-- [UI-And-Lorification](#UI-&-Lorification)
+- [UI-And-Lorification](#UI-And-Lorification)
     - [Character-UI-Overhaul](#Character-UI-Overhaul)
     - [奶皇的集成汉化](#奶皇的集成汉化)
 
