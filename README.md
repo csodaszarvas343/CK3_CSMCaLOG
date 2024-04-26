@@ -37,7 +37,7 @@
     - [Carnalitas-Arousal-Framework](#Carnalitas-Arousal-Framework)
     - [Carnalitas-Love-Reimagined](#Carnalitas-Love-Reimagined)
     - [Carnalitas-Slavery-Reimagined](#Carnalitas-Slavery-Reimagined)
-- [UI-&-Lorification](#UI-&-Lorification)
+- [UI-And-Lorification](#UI-And-Lorification)
     - [Character-UI-Overhaul](#Character-UI-Overhaul)
     - [Scrollable-Character-Interaction-Window](#Scrollable-Character-Interaction-Window)
     - [奶皇的集成汉化](#奶皇的集成汉化)
@@ -165,7 +165,7 @@
 - 链接
     - [LoversLab](https://www.loverslab.com/files/file/25565-carnalitas-slavery-reimagined/)
 
-### UI & Lorification
+### UI And Lorification
 
 #### Character UI Overhaul
 - 链接
