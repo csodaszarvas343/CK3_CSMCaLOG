@@ -3,7 +3,7 @@
 ## 前言
 
 - **版本信息**：
-    - **当前清单更新时间**：*2024/04/25* *04:00*
+    - **当前清单更新时间**：*2024/04/26* *15:40*
     - **游戏版本**：***scythe***（***1.12.4***）
     - **获取清单最新版本**：[GitHub](https://github.com/csodaszarvas343/CK3_CSMCaLOG)
 
@@ -39,6 +39,7 @@
     - [Carnalitas-Slavery-Reimagined](#Carnalitas-Slavery-Reimagined)
 - [UI-&-Lorification](#UI-&-Lorification)
     - [Character-UI-Overhaul](#Character-UI-Overhaul)
+    - [Scrollable-Character-Interaction-Window](#Scrollable-Character-Interaction-Window)
     - [奶皇的集成汉化](#奶皇的集成汉化)
 
 ---
@@ -170,15 +171,19 @@
 - 链接
     - **18**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2519175282)
 
+#### Scrollable Character Interaction Window
+- 链接
+    - **19**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3006147147)
+
 #### 奶皇的集成汉化
 - 链接
-    - **19**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2903983628)
+    - **20**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2903983628)
         - 注：奶皇的集成汉化**总是置底**
 
 ## 校验
 **当且仅当**前述mod**按说明排序**被**添加**和**启用**后，可以启动游戏以核对校验码：
 - **游戏版本**：***scythe***（***1.12.4***）
-- **校验码**：***240a***
+- **校验码**：***9fe5***
 
 ---
 
