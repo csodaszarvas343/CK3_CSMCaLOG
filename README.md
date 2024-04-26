@@ -7,7 +7,7 @@
     - **游戏版本**：***scythe***（***1.12.4***）
     - **获取清单最新版本**：[GitHub](https://github.com/csodaszarvas343/CK3_CSMCaLOG)
 
-- **兼容%26排序整理**：**无渡**
+- **兼容&amp;排序整理**：**无渡**
 
 - **维护**：虚拟买买提
 
@@ -22,7 +22,7 @@
 - [Carnalitas-Series](#Carnalitas-Series)
     - [Carnalitas](#Carnalitas)
 - [Character-Graphics-Series](#Character-Graphics-Series)
-    - [Ethnicities-%26-Portraits-Expanded](#Ethnicities-%26-Portraits-Expanded)
+    - [Ethnicities-&amp;-Portraits-Expanded](#Ethnicities-&amp;-Portraits-Expanded)
     - [Community-Flavor-Pack](#Community-Flavor-Pack)
     - [Character-Body-Overhaul](#Character-Body-Overhaul)
     - [Character-Beautification](#Character-Beautification)
@@ -37,7 +37,7 @@
     - [Carnalitas-Arousal-Framework](#Carnalitas-Arousal-Framework)
     - [Carnalitas-Love-Reimagined](#Carnalitas-Love-Reimagined)
     - [Carnalitas-Slavery-Reimagined](#Carnalitas-Slavery-Reimagined)
-- [UI-%26-Lorification](#UI-%26-Lorification)
+- [UI-&amp;-Lorification](#UI-&amp;-Lorification)
     - [Character-UI-Overhaul](#Character-UI-Overhaul)
     - [Scrollable-Character-Interaction-Window](#Scrollable-Character-Interaction-Window)
     - [奶皇的集成汉化](#奶皇的集成汉化)
@@ -59,7 +59,7 @@
 
 ### Character Graphics Series
 
-#### Ethnicities %26 Portraits Expanded
+#### Ethnicities &amp; Portraits Expanded
 - 链接
     - **02**.[Steam](https://steamcommunity.com/workshop/filedetails/?id=2507209632)
     - **03**.[汉化](https://steamcommunity.com/sharedfiles/filedetails/?id=2508214879)
@@ -90,7 +90,7 @@
         - 2024/03/31
 
 - 链接
-    - [LoversLab](https://www.loverslab.com/topic/163935-mod-character-body-overhaul/?do=findComment%26comment=4340506)
+    - [LoversLab](https://www.loverslab.com/topic/163935-mod-character-body-overhaul/?do=findComment&amp;comment=4340506)
     - **07**.[Mega](https://mega.nz/file/p8sXyIBa#y364NEkaJx5XPCXdBwFaoFU_knkauJaJLBnSzZsbJCM)
 
 #### CFP CBO Compatibility
@@ -165,7 +165,7 @@
 - 链接
     - [LoversLab](https://www.loverslab.com/files/file/25565-carnalitas-slavery-reimagined/)
 
-### UI %26 Lorification
+### UI &amp; Lorification
 
 #### Character UI Overhaul
 - 链接
