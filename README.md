@@ -39,7 +39,7 @@
     - [Carnalitas-Slavery-Reimagined](#Carnalitas-Slavery-Reimagined)
 - [UI-&-Lorification](#UI--Lorification)
     - [Character-UI-Overhaul](#Character-UI-Overhaul)
-    - [Scrollable-Character-Interaction-Window](#Scrollable-Character-Interaction-Window)
+    - [Scrollable-Interactions](#Scrollable-Interactions)
     - [奶皇的集成汉化](#奶皇的集成汉化)
 
 ---
@@ -171,9 +171,9 @@
 - 链接
     - **18**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2519175282)
 
-#### Scrollable Character Interaction Window
+#### Scrollable Interactions
 - 链接
-    - **19**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3006147147)
+    - **19**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2517153104)
 
 #### 奶皇的集成汉化
 - 链接
@@ -183,7 +183,7 @@
 ## 校验
 **当且仅当**前述mod**按说明排序**被**添加**和**启用**后，可以启动游戏以核对校验码：
 - **游戏版本**：***scythe***（***1.12.4***）
-- **校验码**：***9fe5***
+- **校验码**：***a170***
 
 ---
 
