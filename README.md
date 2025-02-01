@@ -3,7 +3,7 @@
 ## 前言
 
 - **版本信息**：
-    - **当前清单更新时间**：*2025/02/1*
+    - **当前清单更新时间**：*2025/02/01*
     - **游戏版本**：***Traverse***（***1.14.2***）
     - **获取清单最新版本**：[GitHub](https://github.com/csodaszarvas343/CK3_CSMCaLOG)
 
@@ -31,7 +31,7 @@
 - [UI-&-Localization](#UI--Localization)
     - [Character-UI-Overhaul](#Character-UI-Overhaul)
     - [Scrollable-Interactions](#Scrollable-Interactions)
-    - [奶皇的集成汉化](#奶皇的集成汉化)
+    - [集成汉化](#集成汉化)
 
 ---
 
@@ -50,22 +50,22 @@
 
 #### Community Flavor Pack
 - 链接
-    - **04**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919)
+    - **02**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919)
 
 #### CBO Unofficial
 - **文件**
-    - **07**.CBO Unofficial Base 1.6.zip
-    - **07**.CBO Unofficial Animation 1.6.zip
-    - **07**.CBO Unofficial Mesh 1.6.zip
+    - **03**.CBO Unofficial Base 1.6.zip
+    - **04**.CBO Unofficial Animation 1.6.zip
+    - **05**.CBO Unofficial Mesh 1.6.zip
 
 - 链接
     - [LoversLab](https://www.loverslab.com/files/file/33324-cbo-unofficial/)
 
 #### CFP CBO Compatibility
 - **文件**
-    - **07**.CFP CBO Base 2.4.zip
+    - **06**.CFP CBO Base 2.4.zip
     - **07**.CFP CBO Animation 2.3.7z
-    - **07**.CFP CBO Mesh 2.3.7z
+    - **08**.CFP CBO Mesh 2.3.7z
 
 - 链接
     - [LoversLab](https://www.loverslab.com/files/file/32269-cfp-cbo-patch/)
@@ -74,11 +74,11 @@
 
 #### Better Barbershop
 - 链接
-    - **12**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2220326926)
+    - **09**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2220326926)
 
 #### Better Barbershop CBO Extension
 - **文件**
-    - **13**.Better Barbershop CBO Extension 1.7.7z
+    - **10**.Better Barbershop CBO Extension 1.7.7z
 
 - 链接
     - [LoversLab](https://www.loverslab.com/files/file/32401-better-barbershop-cbo-extension/)
@@ -87,15 +87,15 @@
 
 #### Character UI Overhaul
 - 链接
-    - **18**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2519175282)
+    - **11**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2519175282)
 
 #### Scrollable Interactions
 - 链接
-    - **19**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2517153104)
+    - **12**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2517153104)
 
 #### 集成汉化
 - 链接
-    - **20**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2903983628)
+    - **13**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2903983628)
         - 注：集成汉化**总是置底**
 
 ---
