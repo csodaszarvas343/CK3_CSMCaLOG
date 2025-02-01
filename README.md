@@ -29,7 +29,7 @@
     - [Better-Barbershop](#Better-Barbershop)
     - [Better-Barbershop-CBO-Extension](#Better-Barbershop-CBO-Extension)
 - [UI-&-Localization](#UI--Localization)
-    - [Character-UI-Overhaul](#Character-UI-Overhaul)
+    - [UI二选一](#UI二选一)
     - [Scrollable-Interactions](#Scrollable-Interactions)
     - [集成汉化](#集成汉化)
 
@@ -85,9 +85,12 @@
 
 ### UI & Localization
 
-#### Character UI Overhaul
-- 链接
-    - **11**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2519175282)
+#### UI二选一
+- Character UI Overhaul
+    - **11A**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2519175282)
+- RUI:Character Unofficial
+    - **11B.1**.[Steam](https://steamcommunity.com/workshop/filedetails/?id=3239002020)
+    - **11B.2**.[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3387296400)
 
 #### Scrollable Interactions
 - 链接
